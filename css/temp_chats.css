@@ -1,0 +1,55 @@
+.outer_fram {
+    width:1200px;
+    height:800px;
+    border:1px solid #666;
+    margin: 70px auto auto auto;
+    background:#f9f9f9;
+}
+.chat_fram{
+    width:959px;
+    height:650px;
+    border:1px solid #666;
+    background:#fff;
+    margin:60px 0px 0px 240px;
+    overflow:auto;
+}
+.talk_input{
+    width:px;
+    margin:auto;
+}
+.input_fram{
+    width:837px;
+    height:50px;
+    padding:10px;
+    float:left;
+    margin:0px 0px 80px 240px;
+    outline:none;
+    text-indent:10px;
+}
+.send_button{
+    width:86px;
+    height:50px;
+    float:left;
+    margin-left:10px;
+}
+.chat_list {
+    overflow: hidden;
+    float: left;
+    height: 546px;
+    width: 200px;
+    border: 1px solid yellow;
+    background-color: white;
+}
+
+.usertalk{
+    margin:10px;
+    text-align:right;
+}
+.usertalk span{
+    display:inline-block;
+    background:#ef8201;
+    border-radius:10px;
+    color:#fff;
+    padding:5px 10px;
+}
+}
